@@ -11,5 +11,15 @@ public class ExceptionHandling {
 			System.out.println("error");
 		}
 		
+		
+		
 	}
+}
+class ExceptionHandelTest{
+	
+	{
+		
+		System.out.println("Hello");
+	}
+	
 }
